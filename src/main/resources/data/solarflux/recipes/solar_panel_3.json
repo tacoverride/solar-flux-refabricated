@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"SRS",
+		"SIS"
+	],
+	"key": {
+		"C": {
+			"item": "solarflux:photovoltaic_cell_1"
+		},
+		"R": {
+			"item": "minecraft:repeater"
+			},
+		"I": {
+			"item": "minecraft:iron_block"
+		},
+		"S": {
+			"item": "solarflux:solar_panel_2"
+		}
+	},
+	"result": {
+		"item": "solarflux:solar_panel_3",
+		"count": 2
+	}
+}

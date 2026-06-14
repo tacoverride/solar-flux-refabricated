@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"EEE",
+		"GDG",
+		"PQP"
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:glowstone"
+		},
+		"D": {
+			"item": "minecraft:diamond_block"
+		},
+		"E": {
+			"item": "solarflux:emerald_glass"
+		},
+		"P": {
+			"item": "solarflux:photovoltaic_cell_4"
+		},
+		"Q": {
+			"item": "minecraft:quartz_block"
+		}
+	},
+	"result": {
+		"item": "solarflux:photovoltaic_cell_5",
+		"count": 2
+	}
+}

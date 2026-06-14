@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "Сонячна панель I",
+	"block.solarflux.solar_panel_2": "Сонячна панель II",
+	"block.solarflux.solar_panel_3": "Сонячна панель III",
+	"block.solarflux.solar_panel_4": "Сонячна панель IV",
+	"block.solarflux.solar_panel_5": "Сонячна панель V",
+	"block.solarflux.solar_panel_6": "Сонячна панель VI",
+	"block.solarflux.solar_panel_7": "Сонячна панель VII",
+	"block.solarflux.solar_panel_8": "Сонячна панель VIII",
+
+	"item.solarflux.mirror": "Дзеркало",
+	"item.solarflux.photovoltaic_cell_1": "Фотоелектричний елемент I",
+	"item.solarflux.photovoltaic_cell_2": "Фотоелектричний елемент II",
+	"item.solarflux.photovoltaic_cell_3": "Фотоелектричний елемент III",
+	"item.solarflux.photovoltaic_cell_4": "Фотоелектричний елемент IV",
+	"item.solarflux.photovoltaic_cell_5": "Фотоелектричний елемент V",
+	"item.solarflux.photovoltaic_cell_6": "Фотоелектричний елемент VI",
+
+	"item.solarflux.blank_upgrade": "Порожнє покращення",
+	"item.solarflux.capacity_upgrade": "Покращення місткості",
+	"item.solarflux.transfer_rate_upgrade": "Покращення швидкості передачі",
+	"item.solarflux.efficiency_upgrade": "Покращення ефективності",
+	"item.solarflux.block_charging_upgrade": "Покращення заряджання блоків",
+	"item.solarflux.dispersive_upgrade": "Розсіювальне покращення",
+	"item.solarflux.furnace_upgrade": "Покращення печі",
+	"item.solarflux.machine_traversal_upgrade": "Покращення проходження крізь машини",
+
+	"item.solarflux.blazing_coating": "Палаюче покриття",
+	"item.solarflux.ender_glass": "Ендер-скло",
+	"item.solarflux.emerald_glass": "Смарагдове скло",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "Інформація про сонячну панель"
+}

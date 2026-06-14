@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" C ",
+		"CMC",
+		" C "
+	],
+	"key": {
+		"M": {
+			"item": "solarflux:mirror"
+		},
+		"C": [
+			{
+				"item": "minecraft:cobblestone"
+			},
+			{
+				"item": "minecraft:cobbled_deepslate"
+			},
+			{
+				"item": "minecraft:mossy_cobblestone"
+			}
+		]
+	},
+	"result": {
+		"item": "solarflux:blank_upgrade",
+		"count": 1
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" M ",
+		" E ",
+		" M "
+	],
+	"key": {
+		"M": {
+			"item": "solarflux:mirror"
+		},
+		"E": {
+			"item": "minecraft:emerald"
+		}
+	},
+	"result": {
+		"item": "solarflux:emerald_glass",
+		"count": 2
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "Solar Panel I",
+	"block.solarflux.solar_panel_2": "Solar Panel II",
+	"block.solarflux.solar_panel_3": "Solar Panel III",
+	"block.solarflux.solar_panel_4": "Solar Panel IV",
+	"block.solarflux.solar_panel_5": "Solar Panel V",
+	"block.solarflux.solar_panel_6": "Solar Panel VI",
+	"block.solarflux.solar_panel_7": "Solar Panel VII",
+	"block.solarflux.solar_panel_8": "Solar Panel VIII",
+
+	"item.solarflux.mirror": "Mirror",
+	"item.solarflux.photovoltaic_cell_1": "Photovoltaic Cell I",
+	"item.solarflux.photovoltaic_cell_2": "Photovoltaic Cell II",
+	"item.solarflux.photovoltaic_cell_3": "Photovoltaic Cell III",
+	"item.solarflux.photovoltaic_cell_4": "Photovoltaic Cell IV",
+	"item.solarflux.photovoltaic_cell_5": "Photovoltaic Cell V",
+	"item.solarflux.photovoltaic_cell_6": "Photovoltaic Cell VI",
+
+	"item.solarflux.blank_upgrade": "Blank Upgrade",
+	"item.solarflux.capacity_upgrade": "Capacity Upgrade",
+	"item.solarflux.transfer_rate_upgrade": "Transfer Rate Upgrade",
+	"item.solarflux.efficiency_upgrade": "Efficiency Upgrade",
+	"item.solarflux.block_charging_upgrade": "Block Charging Upgrade",
+	"item.solarflux.dispersive_upgrade": "Dispersive Upgrade",
+	"item.solarflux.furnace_upgrade": "Furnace Upgrade",
+	"item.solarflux.machine_traversal_upgrade": "Machine Traversal Upgrade",
+
+	"item.solarflux.blazing_coating": "Blazing Coating",
+	"item.solarflux.ender_glass": "Ender Glass",
+	"item.solarflux.emerald_glass": "Emerald Glass",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "Solar Panel Info"
+}

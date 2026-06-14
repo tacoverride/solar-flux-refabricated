@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "Panneau solaire I",
+	"block.solarflux.solar_panel_2": "Panneau solaire II",
+	"block.solarflux.solar_panel_3": "Panneau solaire III",
+	"block.solarflux.solar_panel_4": "Panneau solaire IV",
+	"block.solarflux.solar_panel_5": "Panneau solaire V",
+	"block.solarflux.solar_panel_6": "Panneau solaire VI",
+	"block.solarflux.solar_panel_7": "Panneau solaire VII",
+	"block.solarflux.solar_panel_8": "Panneau solaire VIII",
+
+	"item.solarflux.mirror": "Miroir",
+	"item.solarflux.photovoltaic_cell_1": "Cellule photovoltaïque I",
+	"item.solarflux.photovoltaic_cell_2": "Cellule photovoltaïque II",
+	"item.solarflux.photovoltaic_cell_3": "Cellule photovoltaïque III",
+	"item.solarflux.photovoltaic_cell_4": "Cellule photovoltaïque IV",
+	"item.solarflux.photovoltaic_cell_5": "Cellule photovoltaïque V",
+	"item.solarflux.photovoltaic_cell_6": "Cellule photovoltaïque VI",
+
+	"item.solarflux.blank_upgrade": "Amélioration vierge",
+	"item.solarflux.capacity_upgrade": "Amélioration de capacité",
+	"item.solarflux.transfer_rate_upgrade": "Amélioration du taux de transfert",
+	"item.solarflux.efficiency_upgrade": "Amélioration d’efficacité",
+	"item.solarflux.block_charging_upgrade": "Amélioration de charge de blocs",
+	"item.solarflux.dispersive_upgrade": "Amélioration dispersive",
+	"item.solarflux.furnace_upgrade": "Amélioration de four",
+	"item.solarflux.machine_traversal_upgrade": "Amélioration de traversée des machines",
+
+	"item.solarflux.blazing_coating": "Revêtement ardent",
+	"item.solarflux.ender_glass": "Verre de l’Ender",
+	"item.solarflux.emerald_glass": "Verre d’émeraude",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "Informations du panneau solaire"
+}

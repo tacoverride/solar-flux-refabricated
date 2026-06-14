@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PRP",
+		"RDR",
+		"PRP"
+	],
+	"key": {
+		"P": {
+			"item": "minecraft:ender_pearl"
+		},
+		"D": {
+			"item": "solarflux:dispersive_upgrade"
+		},
+		"R": {
+			"item": "minecraft:redstone_block"
+		}
+	},
+	"result": {
+		"item": "solarflux:block_charging_upgrade",
+		"count": 1
+	}
+}

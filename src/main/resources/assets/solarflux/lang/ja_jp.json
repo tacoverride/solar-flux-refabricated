@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "ソーラーパネル I",
+	"block.solarflux.solar_panel_2": "ソーラーパネル II",
+	"block.solarflux.solar_panel_3": "ソーラーパネル III",
+	"block.solarflux.solar_panel_4": "ソーラーパネル IV",
+	"block.solarflux.solar_panel_5": "ソーラーパネル V",
+	"block.solarflux.solar_panel_6": "ソーラーパネル VI",
+	"block.solarflux.solar_panel_7": "ソーラーパネル VII",
+	"block.solarflux.solar_panel_8": "ソーラーパネル VIII",
+
+	"item.solarflux.mirror": "鏡",
+	"item.solarflux.photovoltaic_cell_1": "太陽電池セル I",
+	"item.solarflux.photovoltaic_cell_2": "太陽電池セル II",
+	"item.solarflux.photovoltaic_cell_3": "太陽電池セル III",
+	"item.solarflux.photovoltaic_cell_4": "太陽電池セル IV",
+	"item.solarflux.photovoltaic_cell_5": "太陽電池セル V",
+	"item.solarflux.photovoltaic_cell_6": "太陽電池セル VI",
+
+	"item.solarflux.blank_upgrade": "空のアップグレード",
+	"item.solarflux.capacity_upgrade": "容量アップグレード",
+	"item.solarflux.transfer_rate_upgrade": "転送速度アップグレード",
+	"item.solarflux.efficiency_upgrade": "効率アップグレード",
+	"item.solarflux.block_charging_upgrade": "ブロック充電アップグレード",
+	"item.solarflux.dispersive_upgrade": "分散アップグレード",
+	"item.solarflux.furnace_upgrade": "かまどアップグレード",
+	"item.solarflux.machine_traversal_upgrade": "機械通過アップグレード",
+
+	"item.solarflux.blazing_coating": "灼熱コーティング",
+	"item.solarflux.ender_glass": "エンダーガラス",
+	"item.solarflux.emerald_glass": "エメラルドガラス",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "ソーラーパネル情報"
+}

@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "Panel solar I",
+	"block.solarflux.solar_panel_2": "Panel solar II",
+	"block.solarflux.solar_panel_3": "Panel solar III",
+	"block.solarflux.solar_panel_4": "Panel solar IV",
+	"block.solarflux.solar_panel_5": "Panel solar V",
+	"block.solarflux.solar_panel_6": "Panel solar VI",
+	"block.solarflux.solar_panel_7": "Panel solar VII",
+	"block.solarflux.solar_panel_8": "Panel solar VIII",
+
+	"item.solarflux.mirror": "Espejo",
+	"item.solarflux.photovoltaic_cell_1": "Celda fotovoltaica I",
+	"item.solarflux.photovoltaic_cell_2": "Celda fotovoltaica II",
+	"item.solarflux.photovoltaic_cell_3": "Celda fotovoltaica III",
+	"item.solarflux.photovoltaic_cell_4": "Celda fotovoltaica IV",
+	"item.solarflux.photovoltaic_cell_5": "Celda fotovoltaica V",
+	"item.solarflux.photovoltaic_cell_6": "Celda fotovoltaica VI",
+
+	"item.solarflux.blank_upgrade": "Mejora vacía",
+	"item.solarflux.capacity_upgrade": "Mejora de capacidad",
+	"item.solarflux.transfer_rate_upgrade": "Mejora de tasa de transferencia",
+	"item.solarflux.efficiency_upgrade": "Mejora de eficiencia",
+	"item.solarflux.block_charging_upgrade": "Mejora de carga de bloques",
+	"item.solarflux.dispersive_upgrade": "Mejora dispersiva",
+	"item.solarflux.furnace_upgrade": "Mejora de horno",
+	"item.solarflux.machine_traversal_upgrade": "Mejora de recorrido de máquinas",
+
+	"item.solarflux.blazing_coating": "Recubrimiento ardiente",
+	"item.solarflux.ender_glass": "Cristal de Ender",
+	"item.solarflux.emerald_glass": "Cristal de esmeralda",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "Información del panel solar"
+}

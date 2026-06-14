@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+        "CLC",
+		"LCL",
+		"MPM"
+	],
+	"key": {
+		"M": {
+			"item": "solarflux:mirror"
+		},
+		"C": {
+			"item": "minecraft:clay_ball"
+            },
+		"P": {
+			"item": "solarflux:photovoltaic_cell_1"
+		},
+		"L": {
+			"item": "minecraft:lapis_lazuli"
+		}
+	},
+	"result": {
+		"item": "solarflux:photovoltaic_cell_2",
+		"count": 1
+	}
+}

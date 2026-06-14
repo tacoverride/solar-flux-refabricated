@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"IPI",
+		"RBR",
+		"IPI"
+	],
+	"key": {
+		"P": [
+			{
+				"item": "minecraft:piston"
+			},
+			{
+				"item": "minecraft:sticky_piston"
+			}
+		],
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		},
+		"B": {
+			"item": "solarflux:blank_upgrade"
+		}
+	},
+	"result": {
+		"item": "solarflux:machine_traversal_upgrade",
+		"count": 1
+	}
+}

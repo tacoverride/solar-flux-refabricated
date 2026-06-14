@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PPP",
+		"SLS",
+		"SGS"
+	],
+	"key": {
+		"P": {
+			"item": "solarflux:photovoltaic_cell_3"
+		},
+		"L": {
+			"item": "minecraft:glowstone"
+			},
+		"G": {
+			"item": "minecraft:gold_block"
+		},
+		"S": {
+			"item": "solarflux:solar_panel_4"
+		}
+	},
+	"result": {
+		"item": "solarflux:solar_panel_5",
+		"count": 2
+	}
+}

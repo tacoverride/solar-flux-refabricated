@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" M ",
+		"MBM",
+		" P "
+	],
+	"key": {
+		"P": {
+			"item": "solarflux:photovoltaic_cell_1"
+		},
+		"B": {
+			"item": "solarflux:blank_upgrade"
+		},
+		"M": {
+			"item": "solarflux:mirror"
+		}
+	},
+	"result": {
+		"item": "solarflux:efficiency_upgrade",
+		"count": 1
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SSS",
+		"SPS",
+		"SSS"
+	],
+	"key": {
+		"S": {
+			"item": "solarflux:solar_panel_1"
+		},
+		"P": [
+			{
+				"item": "minecraft:piston"
+			},
+			{
+				"item": "minecraft:sticky_piston"
+			}
+		]
+	},
+	"result": {
+		"item": "solarflux:solar_panel_2",
+		"count": 1
+	}
+}

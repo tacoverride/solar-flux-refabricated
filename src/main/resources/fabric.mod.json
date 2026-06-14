@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "solarflux",
+	"version": "${version}",
+	"name": "Solar Flux ReFabricated",
+	"description": "The unofficial Fabric port of Solar Flux Reborn, a Forge and Neoforge mod adding tiered solar panels and upgrades, by Zeith",
+	"authors": [
+		"TacOverride"
+	],
+	"contact": {},
+	"license": "GPL-3.0-only",
+	"icon": "assets/solarflux/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.tax.solarflux.SolarFluxFabric"
+		],
+		"client": [
+			"net.tax.solarflux.client.SolarFluxFabricClient"
+		],
+		"jade": [
+			"net.tax.solarflux.compat.jade.SolarFluxJadePlugin"
+		]
+	},
+	"mixins": [
+		"solarflux.mixins.json"
+	],
+
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"team_reborn_energy": "*"
+	},
+	"suggests": {
+		"jade": "*"
+	}
+}

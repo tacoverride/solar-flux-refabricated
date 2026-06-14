@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"CUC",
+		"BFB"
+	],
+	"key": {
+		"C": {
+			"item": "minecraft:coal"
+		},
+        "F": {
+			"item": "minecraft:furnace"
+		},
+		"U": {
+			"item": "solarflux:blank_upgrade"
+		},
+		"B": {
+			"item": "solarflux:blazing_coating"
+		}
+	},
+	"result": {
+		"item": "solarflux:furnace_upgrade",
+		"count": 1
+	}
+}

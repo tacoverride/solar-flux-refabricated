@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PPP",
+		"SGS",
+		"SDS"
+	],
+	"key": {
+		"P": {
+			"item": "solarflux:photovoltaic_cell_4"
+		},
+		"G": {
+			"item": "minecraft:redstone_lamp"
+			},
+		"D": {
+			"item": "minecraft:diamond_block"
+		},
+		"S": {
+			"item": "solarflux:solar_panel_5"
+		}
+	},
+	"result": {
+		"item": "solarflux:solar_panel_6",
+		"count": 2
+	}
+}

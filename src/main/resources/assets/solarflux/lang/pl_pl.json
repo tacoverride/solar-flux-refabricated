@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "Panel słoneczny I",
+	"block.solarflux.solar_panel_2": "Panel słoneczny II",
+	"block.solarflux.solar_panel_3": "Panel słoneczny III",
+	"block.solarflux.solar_panel_4": "Panel słoneczny IV",
+	"block.solarflux.solar_panel_5": "Panel słoneczny V",
+	"block.solarflux.solar_panel_6": "Panel słoneczny VI",
+	"block.solarflux.solar_panel_7": "Panel słoneczny VII",
+	"block.solarflux.solar_panel_8": "Panel słoneczny VIII",
+
+	"item.solarflux.mirror": "Lustro",
+	"item.solarflux.photovoltaic_cell_1": "Ogniwo fotowoltaiczne I",
+	"item.solarflux.photovoltaic_cell_2": "Ogniwo fotowoltaiczne II",
+	"item.solarflux.photovoltaic_cell_3": "Ogniwo fotowoltaiczne III",
+	"item.solarflux.photovoltaic_cell_4": "Ogniwo fotowoltaiczne IV",
+	"item.solarflux.photovoltaic_cell_5": "Ogniwo fotowoltaiczne V",
+	"item.solarflux.photovoltaic_cell_6": "Ogniwo fotowoltaiczne VI",
+
+	"item.solarflux.blank_upgrade": "Puste ulepszenie",
+	"item.solarflux.capacity_upgrade": "Ulepszenie pojemności",
+	"item.solarflux.transfer_rate_upgrade": "Ulepszenie szybkości transferu",
+	"item.solarflux.efficiency_upgrade": "Ulepszenie wydajności",
+	"item.solarflux.block_charging_upgrade": "Ulepszenie ładowania bloków",
+	"item.solarflux.dispersive_upgrade": "Ulepszenie rozpraszające",
+	"item.solarflux.furnace_upgrade": "Ulepszenie pieca",
+	"item.solarflux.machine_traversal_upgrade": "Ulepszenie przechodzenia przez maszyny",
+
+	"item.solarflux.blazing_coating": "Ognista powłoka",
+	"item.solarflux.ender_glass": "Enderowe szkło",
+	"item.solarflux.emerald_glass": "Szmaragdowe szkło",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "Informacje o panelu słonecznym"
+}

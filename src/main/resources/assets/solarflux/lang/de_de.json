@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "太阳能板 I",
+	"block.solarflux.solar_panel_2": "太阳能板 II",
+	"block.solarflux.solar_panel_3": "太阳能板 III",
+	"block.solarflux.solar_panel_4": "太阳能板 IV",
+	"block.solarflux.solar_panel_5": "太阳能板 V",
+	"block.solarflux.solar_panel_6": "太阳能板 VI",
+	"block.solarflux.solar_panel_7": "太阳能板 VII",
+	"block.solarflux.solar_panel_8": "太阳能板 VIII",
+
+	"item.solarflux.mirror": "镜子",
+	"item.solarflux.photovoltaic_cell_1": "光伏电池 I",
+	"item.solarflux.photovoltaic_cell_2": "光伏电池 II",
+	"item.solarflux.photovoltaic_cell_3": "光伏电池 III",
+	"item.solarflux.photovoltaic_cell_4": "光伏电池 IV",
+	"item.solarflux.photovoltaic_cell_5": "光伏电池 V",
+	"item.solarflux.photovoltaic_cell_6": "光伏电池 VI",
+
+	"item.solarflux.blank_upgrade": "空白升级",
+	"item.solarflux.capacity_upgrade": "容量升级",
+	"item.solarflux.transfer_rate_upgrade": "传输速率升级",
+	"item.solarflux.efficiency_upgrade": "效率升级",
+	"item.solarflux.block_charging_upgrade": "方块充能升级",
+	"item.solarflux.dispersive_upgrade": "扩散升级",
+	"item.solarflux.furnace_upgrade": "熔炉升级",
+	"item.solarflux.machine_traversal_upgrade": "机器穿透升级",
+
+	"item.solarflux.blazing_coating": "炽热涂层",
+	"item.solarflux.ender_glass": "末影玻璃",
+	"item.solarflux.emerald_glass": "绿宝石玻璃",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "太阳能板信息"
+}

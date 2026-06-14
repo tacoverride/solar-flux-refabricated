@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"RRR",
+		"GBG",
+		"RRR"
+	],
+	"key": {
+		"R": {
+			"item": "minecraft:redstone"
+		},
+		"B": {
+			"item": "solarflux:blank_upgrade"
+		},
+		"G": {
+			"item": "minecraft:gold_ingot"
+		}
+	},
+	"result": {
+		"item": "solarflux:transfer_rate_upgrade",
+		"count": 1
+	}
+}

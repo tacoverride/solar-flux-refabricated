@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "Solární panel I",
+	"block.solarflux.solar_panel_2": "Solární panel II",
+	"block.solarflux.solar_panel_3": "Solární panel III",
+	"block.solarflux.solar_panel_4": "Solární panel IV",
+	"block.solarflux.solar_panel_5": "Solární panel V",
+	"block.solarflux.solar_panel_6": "Solární panel VI",
+	"block.solarflux.solar_panel_7": "Solární panel VII",
+	"block.solarflux.solar_panel_8": "Solární panel VIII",
+
+	"item.solarflux.mirror": "Zrcadlo",
+	"item.solarflux.photovoltaic_cell_1": "Fotovoltaický článek I",
+	"item.solarflux.photovoltaic_cell_2": "Fotovoltaický článek II",
+	"item.solarflux.photovoltaic_cell_3": "Fotovoltaický článek III",
+	"item.solarflux.photovoltaic_cell_4": "Fotovoltaický článek IV",
+	"item.solarflux.photovoltaic_cell_5": "Fotovoltaický článek V",
+	"item.solarflux.photovoltaic_cell_6": "Fotovoltaický článek VI",
+
+	"item.solarflux.blank_upgrade": "Prázdné vylepšení",
+	"item.solarflux.capacity_upgrade": "Vylepšení kapacity",
+	"item.solarflux.transfer_rate_upgrade": "Vylepšení rychlosti přenosu",
+	"item.solarflux.efficiency_upgrade": "Vylepšení účinnosti",
+	"item.solarflux.block_charging_upgrade": "Vylepšení nabíjení bloků",
+	"item.solarflux.dispersive_upgrade": "Disperzní vylepšení",
+	"item.solarflux.furnace_upgrade": "Vylepšení pece",
+	"item.solarflux.machine_traversal_upgrade": "Vylepšení průchodu stroji",
+
+	"item.solarflux.blazing_coating": "Žhnoucí povlak",
+	"item.solarflux.ender_glass": "Enderové sklo",
+	"item.solarflux.emerald_glass": "Smaragdové sklo",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "Informace o solárním panelu"
+}

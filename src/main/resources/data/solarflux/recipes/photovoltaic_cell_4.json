@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+        "BBB",
+		"GDG",
+		"QPQ"
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:glowstone_dust"
+		},
+        "D": {
+			"item": "minecraft:diamond"
+            },
+		"B": {
+			"item": "solarflux:blazing_coating"
+            },
+		"P": {
+			"item": "solarflux:photovoltaic_cell_3"
+		},
+		"Q": {
+			"item": "minecraft:quartz_block"
+		}
+	},
+	"result": {
+		"item": "solarflux:photovoltaic_cell_4",
+		"count": 1
+	}
+}

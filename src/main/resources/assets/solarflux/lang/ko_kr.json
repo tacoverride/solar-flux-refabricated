@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "태양광 패널 I",
+	"block.solarflux.solar_panel_2": "태양광 패널 II",
+	"block.solarflux.solar_panel_3": "태양광 패널 III",
+	"block.solarflux.solar_panel_4": "태양광 패널 IV",
+	"block.solarflux.solar_panel_5": "태양광 패널 V",
+	"block.solarflux.solar_panel_6": "태양광 패널 VI",
+	"block.solarflux.solar_panel_7": "태양광 패널 VII",
+	"block.solarflux.solar_panel_8": "태양광 패널 VIII",
+
+	"item.solarflux.mirror": "거울",
+	"item.solarflux.photovoltaic_cell_1": "광전지 I",
+	"item.solarflux.photovoltaic_cell_2": "광전지 II",
+	"item.solarflux.photovoltaic_cell_3": "광전지 III",
+	"item.solarflux.photovoltaic_cell_4": "광전지 IV",
+	"item.solarflux.photovoltaic_cell_5": "광전지 V",
+	"item.solarflux.photovoltaic_cell_6": "광전지 VI",
+
+	"item.solarflux.blank_upgrade": "빈 업그레이드",
+	"item.solarflux.capacity_upgrade": "용량 업그레이드",
+	"item.solarflux.transfer_rate_upgrade": "전송 속도 업그레이드",
+	"item.solarflux.efficiency_upgrade": "효율 업그레이드",
+	"item.solarflux.block_charging_upgrade": "블록 충전 업그레이드",
+	"item.solarflux.dispersive_upgrade": "분산 업그레이드",
+	"item.solarflux.furnace_upgrade": "화로 업그레이드",
+	"item.solarflux.machine_traversal_upgrade": "기계 통과 업그레이드",
+
+	"item.solarflux.blazing_coating": "타오르는 코팅",
+	"item.solarflux.ender_glass": "엔더 유리",
+	"item.solarflux.emerald_glass": "에메랄드 유리",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "태양광 패널 정보"
+}

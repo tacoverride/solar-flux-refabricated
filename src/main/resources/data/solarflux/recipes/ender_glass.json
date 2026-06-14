@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"GGG",
+		"PEP"
+	],
+	"key": {
+		"G": {
+			"item": "solarflux:emerald_glass"
+		},
+		"E": {
+			"item": "minecraft:ender_eye"
+		},
+		"P": {
+			"item": "minecraft:ender_pearl"
+		}
+	},
+	"result": {
+		"item": "solarflux:ender_glass",
+		"count": 3
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "Painel solar I",
+	"block.solarflux.solar_panel_2": "Painel solar II",
+	"block.solarflux.solar_panel_3": "Painel solar III",
+	"block.solarflux.solar_panel_4": "Painel solar IV",
+	"block.solarflux.solar_panel_5": "Painel solar V",
+	"block.solarflux.solar_panel_6": "Painel solar VI",
+	"block.solarflux.solar_panel_7": "Painel solar VII",
+	"block.solarflux.solar_panel_8": "Painel solar VIII",
+
+	"item.solarflux.mirror": "Espelho",
+	"item.solarflux.photovoltaic_cell_1": "Célula fotovoltaica I",
+	"item.solarflux.photovoltaic_cell_2": "Célula fotovoltaica II",
+	"item.solarflux.photovoltaic_cell_3": "Célula fotovoltaica III",
+	"item.solarflux.photovoltaic_cell_4": "Célula fotovoltaica IV",
+	"item.solarflux.photovoltaic_cell_5": "Célula fotovoltaica V",
+	"item.solarflux.photovoltaic_cell_6": "Célula fotovoltaica VI",
+
+	"item.solarflux.blank_upgrade": "Aprimoramento em branco",
+	"item.solarflux.capacity_upgrade": "Aprimoramento de capacidade",
+	"item.solarflux.transfer_rate_upgrade": "Aprimoramento de taxa de transferência",
+	"item.solarflux.efficiency_upgrade": "Aprimoramento de eficiência",
+	"item.solarflux.block_charging_upgrade": "Aprimoramento de carregamento de blocos",
+	"item.solarflux.dispersive_upgrade": "Aprimoramento dispersivo",
+	"item.solarflux.furnace_upgrade": "Aprimoramento de fornalha",
+	"item.solarflux.machine_traversal_upgrade": "Aprimoramento de travessia de máquinas",
+
+	"item.solarflux.blazing_coating": "Revestimento incandescente",
+	"item.solarflux.ender_glass": "Vidro do Ender",
+	"item.solarflux.emerald_glass": "Vidro de esmeralda",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "Informações do painel solar"
+}

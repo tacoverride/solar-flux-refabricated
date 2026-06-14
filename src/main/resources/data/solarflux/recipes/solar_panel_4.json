@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PPP",
+		"SCS",
+		"SIS"
+	],
+	"key": {
+		"P": {
+			"item": "solarflux:photovoltaic_cell_2"
+		},
+		"C": {
+			"item": "minecraft:clock"
+			},
+		"I": {
+			"item": "minecraft:iron_block"
+		},
+		"S": {
+			"item": "solarflux:solar_panel_3"
+		}
+	},
+	"result": {
+		"item": "solarflux:solar_panel_4",
+		"count": 2
+	}
+}

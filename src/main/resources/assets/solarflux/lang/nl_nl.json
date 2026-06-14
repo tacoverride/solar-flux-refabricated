@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "Zonnepaneel I",
+	"block.solarflux.solar_panel_2": "Zonnepaneel II",
+	"block.solarflux.solar_panel_3": "Zonnepaneel III",
+	"block.solarflux.solar_panel_4": "Zonnepaneel IV",
+	"block.solarflux.solar_panel_5": "Zonnepaneel V",
+	"block.solarflux.solar_panel_6": "Zonnepaneel VI",
+	"block.solarflux.solar_panel_7": "Zonnepaneel VII",
+	"block.solarflux.solar_panel_8": "Zonnepaneel VIII",
+
+	"item.solarflux.mirror": "Spiegel",
+	"item.solarflux.photovoltaic_cell_1": "Fotovoltaïsche cel I",
+	"item.solarflux.photovoltaic_cell_2": "Fotovoltaïsche cel II",
+	"item.solarflux.photovoltaic_cell_3": "Fotovoltaïsche cel III",
+	"item.solarflux.photovoltaic_cell_4": "Fotovoltaïsche cel IV",
+	"item.solarflux.photovoltaic_cell_5": "Fotovoltaïsche cel V",
+	"item.solarflux.photovoltaic_cell_6": "Fotovoltaïsche cel VI",
+
+	"item.solarflux.blank_upgrade": "Lege upgrade",
+	"item.solarflux.capacity_upgrade": "Capaciteitsupgrade",
+	"item.solarflux.transfer_rate_upgrade": "Overdrachtssnelheidsupgrade",
+	"item.solarflux.efficiency_upgrade": "Efficiëntie-upgrade",
+	"item.solarflux.block_charging_upgrade": "Bloklaadupgrade",
+	"item.solarflux.dispersive_upgrade": "Dispersie-upgrade",
+	"item.solarflux.furnace_upgrade": "Ovenupgrade",
+	"item.solarflux.machine_traversal_upgrade": "Machinedoorgangsupgrade",
+
+	"item.solarflux.blazing_coating": "Vlammende coating",
+	"item.solarflux.ender_glass": "Enderglas",
+	"item.solarflux.emerald_glass": "Smaragdglas",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "Zonnepaneelinformatie"
+}

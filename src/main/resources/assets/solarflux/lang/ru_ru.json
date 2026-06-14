@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "Солнечная панель I",
+	"block.solarflux.solar_panel_2": "Солнечная панель II",
+	"block.solarflux.solar_panel_3": "Солнечная панель III",
+	"block.solarflux.solar_panel_4": "Солнечная панель IV",
+	"block.solarflux.solar_panel_5": "Солнечная панель V",
+	"block.solarflux.solar_panel_6": "Солнечная панель VI",
+	"block.solarflux.solar_panel_7": "Солнечная панель VII",
+	"block.solarflux.solar_panel_8": "Солнечная панель VIII",
+
+	"item.solarflux.mirror": "Зеркало",
+	"item.solarflux.photovoltaic_cell_1": "Фотоэлектрический элемент I",
+	"item.solarflux.photovoltaic_cell_2": "Фотоэлектрический элемент II",
+	"item.solarflux.photovoltaic_cell_3": "Фотоэлектрический элемент III",
+	"item.solarflux.photovoltaic_cell_4": "Фотоэлектрический элемент IV",
+	"item.solarflux.photovoltaic_cell_5": "Фотоэлектрический элемент V",
+	"item.solarflux.photovoltaic_cell_6": "Фотоэлектрический элемент VI",
+
+	"item.solarflux.blank_upgrade": "Пустое улучшение",
+	"item.solarflux.capacity_upgrade": "Улучшение ёмкости",
+	"item.solarflux.transfer_rate_upgrade": "Улучшение скорости передачи",
+	"item.solarflux.efficiency_upgrade": "Улучшение эффективности",
+	"item.solarflux.block_charging_upgrade": "Улучшение зарядки блоков",
+	"item.solarflux.dispersive_upgrade": "Рассеивающее улучшение",
+	"item.solarflux.furnace_upgrade": "Улучшение печи",
+	"item.solarflux.machine_traversal_upgrade": "Улучшение прохождения машин",
+
+	"item.solarflux.blazing_coating": "Пылающее покрытие",
+	"item.solarflux.ender_glass": "Эндер-стекло",
+	"item.solarflux.emerald_glass": "Изумрудное стекло",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "Информация о солнечной панели"
+}

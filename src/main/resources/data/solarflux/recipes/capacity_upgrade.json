@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" R ",
+		"RBR",
+		"RDR"
+	],
+	"key": {
+		"B": {
+			"item": "solarflux:blank_upgrade"
+		},
+		"D": {
+			"item": "minecraft:diamond_block"
+		},
+		"R": {
+			"item": "minecraft:redstone_block"
+		}
+	},
+	"result": {
+		"item": "solarflux:capacity_upgrade",
+		"count": 1
+	}
+}

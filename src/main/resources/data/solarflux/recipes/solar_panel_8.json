@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PPP",
+		"SDS",
+		"SDS"
+	],
+	"key": {
+		"P": {
+			"item": "solarflux:photovoltaic_cell_6"
+		},
+		"D": {
+			"item": "minecraft:dragon_egg"
+			},
+		"S": {
+			"item": "solarflux:solar_panel_7"
+		}
+	},
+	"result": {
+		"item": "solarflux:solar_panel_8",
+		"count": 2
+	}
+}

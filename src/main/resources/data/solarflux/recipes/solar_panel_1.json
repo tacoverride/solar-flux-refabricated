@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MMM",
+		"PRP",
+		"PPP"
+	],
+	"key": {
+		"M": {
+			"item": "solarflux:mirror"
+		},
+		"P": {
+			"tag": "minecraft:planks"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "solarflux:solar_panel_1",
+		"count": 1
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		"solarflux:solar_panel_1",
+		"solarflux:solar_panel_2",
+		"solarflux:solar_panel_3",
+		"solarflux:solar_panel_4",
+		"solarflux:solar_panel_5",
+		"solarflux:solar_panel_6",
+		"solarflux:solar_panel_7",
+		"solarflux:solar_panel_8"
+	]
+}

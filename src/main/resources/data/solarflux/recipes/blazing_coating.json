@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" M ",
+		" B ",
+		" M "
+	],
+	"key": {
+		"M": {
+			"item": "solarflux:mirror"
+		},
+		"B": {
+			"item": "minecraft:blaze_powder"
+		}
+	},
+	"result": {
+		"item": "solarflux:blazing_coating",
+		"count": 2
+	}
+}

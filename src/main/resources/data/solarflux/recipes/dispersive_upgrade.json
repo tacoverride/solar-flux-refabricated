@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"GEG",
+		"EBE",
+		"GEG"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:ender_eye"
+		},
+		"B": {
+			"item": "solarflux:blank_upgrade"
+		},
+		"G": {
+			"item": "minecraft:glowstone"
+		}
+	},
+	"result": {
+		"item": "solarflux:dispersive_upgrade",
+		"count": 1
+	}
+}

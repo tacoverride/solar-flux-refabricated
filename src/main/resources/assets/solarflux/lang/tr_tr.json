@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "Güneş paneli I",
+	"block.solarflux.solar_panel_2": "Güneş paneli II",
+	"block.solarflux.solar_panel_3": "Güneş paneli III",
+	"block.solarflux.solar_panel_4": "Güneş paneli IV",
+	"block.solarflux.solar_panel_5": "Güneş paneli V",
+	"block.solarflux.solar_panel_6": "Güneş paneli VI",
+	"block.solarflux.solar_panel_7": "Güneş paneli VII",
+	"block.solarflux.solar_panel_8": "Güneş paneli VIII",
+
+	"item.solarflux.mirror": "Ayna",
+	"item.solarflux.photovoltaic_cell_1": "Fotovoltaik hücre I",
+	"item.solarflux.photovoltaic_cell_2": "Fotovoltaik hücre II",
+	"item.solarflux.photovoltaic_cell_3": "Fotovoltaik hücre III",
+	"item.solarflux.photovoltaic_cell_4": "Fotovoltaik hücre IV",
+	"item.solarflux.photovoltaic_cell_5": "Fotovoltaik hücre V",
+	"item.solarflux.photovoltaic_cell_6": "Fotovoltaik hücre VI",
+
+	"item.solarflux.blank_upgrade": "Boş yükseltme",
+	"item.solarflux.capacity_upgrade": "Kapasite yükseltmesi",
+	"item.solarflux.transfer_rate_upgrade": "Aktarım hızı yükseltmesi",
+	"item.solarflux.efficiency_upgrade": "Verimlilik yükseltmesi",
+	"item.solarflux.block_charging_upgrade": "Blok şarj yükseltmesi",
+	"item.solarflux.dispersive_upgrade": "Dağıtıcı yükseltme",
+	"item.solarflux.furnace_upgrade": "Fırın yükseltmesi",
+	"item.solarflux.machine_traversal_upgrade": "Makine geçiş yükseltmesi",
+
+	"item.solarflux.blazing_coating": "Alevli kaplama",
+	"item.solarflux.ender_glass": "Ender camı",
+	"item.solarflux.emerald_glass": "Zümrüt cam",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "Güneş paneli bilgisi"
+}

@@ -1,0 +1,33 @@
+{
+	"block.solarflux.solar_panel_1": "Pannello solare I",
+	"block.solarflux.solar_panel_2": "Pannello solare II",
+	"block.solarflux.solar_panel_3": "Pannello solare III",
+	"block.solarflux.solar_panel_4": "Pannello solare IV",
+	"block.solarflux.solar_panel_5": "Pannello solare V",
+	"block.solarflux.solar_panel_6": "Pannello solare VI",
+	"block.solarflux.solar_panel_7": "Pannello solare VII",
+	"block.solarflux.solar_panel_8": "Pannello solare VIII",
+
+	"item.solarflux.mirror": "Specchio",
+	"item.solarflux.photovoltaic_cell_1": "Cella fotovoltaica I",
+	"item.solarflux.photovoltaic_cell_2": "Cella fotovoltaica II",
+	"item.solarflux.photovoltaic_cell_3": "Cella fotovoltaica III",
+	"item.solarflux.photovoltaic_cell_4": "Cella fotovoltaica IV",
+	"item.solarflux.photovoltaic_cell_5": "Cella fotovoltaica V",
+	"item.solarflux.photovoltaic_cell_6": "Cella fotovoltaica VI",
+
+	"item.solarflux.blank_upgrade": "Potenziamento vuoto",
+	"item.solarflux.capacity_upgrade": "Potenziamento capacità",
+	"item.solarflux.transfer_rate_upgrade": "Potenziamento velocità di trasferimento",
+	"item.solarflux.efficiency_upgrade": "Potenziamento efficienza",
+	"item.solarflux.block_charging_upgrade": "Potenziamento carica blocchi",
+	"item.solarflux.dispersive_upgrade": "Potenziamento dispersivo",
+	"item.solarflux.furnace_upgrade": "Potenziamento fornace",
+	"item.solarflux.machine_traversal_upgrade": "Potenziamento attraversamento macchine",
+
+	"item.solarflux.blazing_coating": "Rivestimento ardente",
+	"item.solarflux.ender_glass": "Vetro dell'Ender",
+	"item.solarflux.emerald_glass": "Vetro di smeraldo",
+
+	"config.jade.plugin_solarflux.solar_panel_info": "Informazioni pannello solare"
+}
