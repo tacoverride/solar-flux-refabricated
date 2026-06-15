@@ -2,10 +2,13 @@
 	"schemaVersion": 1,
 	"id": "solarflux",
 	"version": "${version}",
-	"name": "Solar Flux ReFabricated",
-	"description": "The unofficial Fabric port of Solar Flux Reborn, a Forge and Neoforge mod adding tiered solar panels and upgrades, by Zeith",
+	"name": "Solar Flux Reborn Fabric",
+	"description": "The official Fabric port of Solar Flux Reborn. Adds solar panels to Minecraft.",
 	"authors": [
-		"TacOverride"
+		"Zeith"
+	],
+	"contributors": [
+  		"TacOverride"
 	],
 	"contact": {},
 	"license": "GPL-3.0-only",
