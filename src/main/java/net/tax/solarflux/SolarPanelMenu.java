@@ -32,9 +32,11 @@ public class SolarPanelMenu extends AbstractContainerMenu {
 
 		addDataSlots(data);
 
-		// Official upgrade slot row: x = 8 + i*18, y = 60
+		// The GUI draws each upgrade slot background at x = 8 + i*18, y = 60.
+		// Minecraft slot coordinates are where the 16x16 item renders, so the item
+		// sits one pixel inside the 18x18 slot background.
 		for (int i = 0; i < 5; i++) {
-			this.addSlot(new UpgradeSlot(upgradeInventory, i, 8 + i * 18, 60));
+			this.addSlot(new UpgradeSlot(upgradeInventory, i, 9 + i * 18, 61));
 		}
 
 		addPlayerInventory(playerInventory);
@@ -64,14 +66,14 @@ public class SolarPanelMenu extends AbstractContainerMenu {
 			ItemStack stackInSlot = slot.getItem();
 			originalStack = stackInSlot.copy();
 
-			// Shift-clicking from the panel upgrade slots back into player inventory
+			// Shift-clicking from the panel upgrade slots back into player inventory.
 			if (index >= UPGRADE_SLOT_START && index < UPGRADE_SLOT_END) {
 				if (!this.moveItemStackTo(stackInSlot, PLAYER_INVENTORY_START, HOTBAR_END, true)) {
 					return ItemStack.EMPTY;
 				}
 			}
 
-			// Shift-clicking from player inventory/hotbar into panel upgrade slots
+			// Shift-clicking from player inventory/hotbar into panel upgrade slots.
 			else if (index >= PLAYER_INVENTORY_START && index < HOTBAR_END) {
 				if (isUpgradeItem(stackInSlot) && !alreadyHasUpgradeType(stackInSlot, -1)) {
 					if (!this.moveItemStackTo(stackInSlot, UPGRADE_SLOT_START, UPGRADE_SLOT_END, false)) {
@@ -79,7 +81,7 @@ public class SolarPanelMenu extends AbstractContainerMenu {
 					}
 				}
 
-				// Move between main inventory and hotbar like vanilla
+				// Move between main inventory and hotbar like vanilla.
 				else if (index >= PLAYER_INVENTORY_START && index < PLAYER_INVENTORY_END) {
 					if (!this.moveItemStackTo(stackInSlot, HOTBAR_START, HOTBAR_END, false)) {
 						return ItemStack.EMPTY;
